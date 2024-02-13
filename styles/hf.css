@@ -9,10 +9,12 @@ header {
   background-color: #1f1f1f;
   padding: 5px 20px;
   height: 25px;
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
 .title {
-  font-family: 'Gasoek One', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1em;
   color: #fff;
   text-decoration: none;
