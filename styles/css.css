@@ -20,7 +20,7 @@ body {
 #ver-choose {
   border: none;
   border-radius: 6px;
-  height: 64px;
+  height: 32px;
   color: #fff;
   font-size: 1.3em;
   font-family: 'Source Sans Pro', sans-serif;
@@ -28,11 +28,11 @@ body {
 }
 
 .ver-btn {
-  height: 64px;
   border: none;
   border-radius: 6px;
   color: #3c3c3c;
   transition: color 3s ease;
+  font-size: 1.6em;
 }
 
 .ver-btn:hover {
