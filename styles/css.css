@@ -31,11 +31,11 @@ body {
   border: none;
   border-radius: 6px;
   transition: color 0.3s ease;
-  font-size: 1.6em;
+  font-size: 1.8em;
   color: #1e1e1e;
   cursor: pointer;
 }
 
 .ver-btn:hover {
   color: #3c3c3c;
-]
+}
