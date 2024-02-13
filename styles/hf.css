@@ -13,9 +13,9 @@ header {
   margin-left: 300px;
 }
 
-.title {
+.title p {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1em;
+  font-size: 1.3em;
   color: #fff;
   text-decoration: none;
   display: flex;
@@ -35,7 +35,7 @@ nav a {
   font-family: 'Source Sans Pro', sans-serif;
   text-decoration: none;
   color: rgb(255, 255, 255, 0.4);
-  font-size: 18px;
+  font-size: 1em;
   margin-left: 10px; 
   margin-right: 10px;
   transition: color 0.3s ease;
