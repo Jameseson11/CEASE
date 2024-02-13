@@ -1,36 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap');
+
 header {
-  background: transparent;
-  text-align: center;
+  z-index: 999999;
+  display: flex;
   align-items: center;
-  justify-content: center;
-  padding: 0;
+  justify-content: space-between;
+  background-color: #1f1f1f;
+  padding: 5px 20px;
   height: 25px;
-  margin-left: 100px;
-  margin-right: 100px;
 }
 
 .title {
-  text-align: center;
-  display: flex;
-  justify-content: flex-start;
+  font-family: 'Gasoek One', sans-serif;
   font-size: 1em;
+  color: #fff;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  transition: color 0.3s ease;
 }
 
 nav {
-  text-align: center;
-  align-items: center;
+  z-index: 999999;
   display: flex;
+  align-items: center;
   justify-content: flex-end;
+  flex-grow: 1;
 }
 
- nav a{
+nav a {
+  font-family: 'Source Sans Pro', sans-serif;
   text-decoration: none;
-  font-size: 1em;
+  color: #fff;
+  font-size: 18px;
+  margin-left: 10px; 
+  margin-right: 10px;
   transition: color 0.3s ease;
 }
 
 nav a:hover {
-  color: #ff0000;
+ color: #ff0000;
 }
-
