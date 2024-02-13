@@ -5,6 +5,7 @@ header {
   justify-content: center;
   margin: 0;
   padding: 0;
+  height: 25px;
 }
 
 .title {
@@ -30,6 +31,8 @@ header {
 
 #nav-1 a,
 #nav-2 a {
+  margin-left: 10px; 
+  margin-right: 10px;
   text-decoration: none;
   font-size: 1em;
   transition: color 0.3s ease;
