@@ -12,6 +12,7 @@ body {
 }
 
 .select-title {
+  color: #fff;
   font-size: 1.5em;
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -19,8 +20,21 @@ body {
 #ver-choose {
   border: none;
   border-radius: 6px;
+  height: 64px;
   color: #fff;
   font-size: 1.3em;
   font-family: 'Source Sans Pro', sans-serif;
-  background-color: #3c3c3c
+  background-color: #3c3c3c;
 }
+
+.ver-btn {
+  height: 64px;
+  border: none;
+  border-radius: 6px;
+  color: #3c3c3c;
+  transition: color 3s ease;
+}
+
+.ver-btn:hover {
+  color: #3c3c3c;
+]
