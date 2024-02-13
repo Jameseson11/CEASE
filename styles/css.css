@@ -32,10 +32,13 @@ body {
   border-radius: 6px;
   transition: background-color 0.3s ease;
   font-size: 1.9em;
-  background-color: #1e1e1e;
+  background-color: #3e3e3e;
+  color: #fff;
   cursor: pointer;
+  align-items: center;
+  text-align: center;
 }
 
 .ver-btn:hover {
-  background-color: #3c3c3c;
+  background-color: #90EE90;
 }
