@@ -30,12 +30,12 @@ body {
 .ver-btn {
   border: none;
   border-radius: 6px;
-  transition: color 0.3s ease;
-  font-size: 1.8em;
-  color: #1e1e1e;
+  transition: background-color 0.3s ease;
+  font-size: 1.9em;
+  background-color: #1e1e1e;
   cursor: pointer;
 }
 
 .ver-btn:hover {
-  color: #3c3c3c;
+  background-color: #3c3c3c;
 }
