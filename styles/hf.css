@@ -13,9 +13,9 @@ header {
   margin-left: 300px;
 }
 
-.title p {
+.title {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1.3em;
+  font-size: 1.1em;
   color: #fff;
   text-decoration: none;
   display: flex;
