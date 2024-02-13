@@ -17,32 +17,20 @@ header {
   text-decoration: none;
 }
 
-#nav-1 {
+nav {
   text-align: center;
   align-items: center;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
-#nav-1 a,
-#nav-2 a {
+ nav a{
   text-decoration: none;
   font-size: 1em;
   transition: color 0.3s ease;
 }
 
-#nav-1 a:hover {
+nav a:hover {
   color: #ff0000;
-}
-
-#nav-2 a:hover {
-  color: #ff0000;
-}
-
-#nav-2 {
-  text-align: center;
-  align-items: center;
-  display: flex;
-  justify-content: flex-end;
 }
 
