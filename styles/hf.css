@@ -1,0 +1,52 @@
+header {
+  background: transparent;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  text-align: center;
+  display: flex;
+  justify-content: flex-start;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+.title img {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+#nav-1 {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#nav-1 a,
+#nav-2 a {
+  text-decoration: none;
+  font-size: 1em;
+  transition: color 0.3s ease;
+}
+
+#nav-1 a:hover {
+  color: #ff0000;
+}
+
+#nav-2 a:hover {
+  color: #ff0000;
+}
+
+#nav-2 {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+}
+
