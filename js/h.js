@@ -1,5 +1,5 @@
 document.write(`
-  <header style="margin: 0;">
+  <header>
     <a class="title" href="/">
       <h2>Chrox</h2>
     </a>
