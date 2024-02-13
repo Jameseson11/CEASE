@@ -4,7 +4,7 @@
 </kbd>
 </p>
 
-# Chrox
+<h1 style="text-align: center;">Chrox</h1>
 
 🔓Chrox is a page full of ChromeOS Exploits to unblock managed Chromebooks
 
