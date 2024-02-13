@@ -1,7 +1,6 @@
 document.write(`
   <header>
     <a class="title" href="/">
-      <img src="/images/logos/chrox.png" width="128" height="128">
       <h2>Chrox</h2>
     </a>
     <nav id="nav-1">
