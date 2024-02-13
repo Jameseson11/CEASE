@@ -42,3 +42,10 @@ body {
 .ver-btn:hover {
   background-color: #90EE90;
 }
+
+.horizontal-divider {
+    width: 50%;
+    height: 1px;
+    background-color: black;
+    opacity: 0.5;
+}
