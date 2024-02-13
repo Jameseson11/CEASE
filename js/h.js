@@ -1,7 +1,7 @@
 document.write(`
   <header>
     <a class="title" href="/">
-      <h2>Chrox</h2>
+      <p>Chrox</p>
     </a>
     <nav>
       <a href="https://github.com/CybriaTech/Chrox">Github</a>
