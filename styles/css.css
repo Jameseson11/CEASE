@@ -44,7 +44,7 @@ body {
 }
 
 .horizontal-divider {
-    width: 80%;
+    width: auto;
     height: 1px;
     background-color: #fff;
     opacity: 0.5;
