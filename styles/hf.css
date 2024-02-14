@@ -5,7 +5,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #333;
+  background-color: none;
   padding: 10px 20px;
   margin-right: 300px;
   margin-left: 300px;
@@ -14,7 +14,7 @@ header {
 .title {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1.3em;
   color: #fff;
   text-decoration: none;
   display: flex;
@@ -29,10 +29,10 @@ nav {
 }
 
 nav a {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-decoration: none;
   color: #fff;
-  font-size: 1em;
+  font-size: 1.1em;
   margin-left: 10px;
   margin-right: 10px;
   transition: color 0.3s ease;
