@@ -12,6 +12,7 @@ header {
 }
 
 .title {
+  margin: 0;
   font-family: Roboto;
   font-weight: bold;
   font-size: 1.3em;
@@ -23,6 +24,7 @@ header {
 }
 
 nav {
+  margin: 0;
   z-index: 999999;
   display: flex;
   align-items: center;
