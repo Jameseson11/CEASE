@@ -1,43 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
 
 header {
-  z-index: 999999;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: none;
-  padding: 2px 25px;
-  margin-right: 300px;
-  margin-left: 300px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #333;
+  padding: 15px 0; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .title {
   font-family: Roboto;
-  font-weight: bold;
-  font-size: 1.3em;
+  font-weight: 500;
+  font-size: 1.5em;
   color: #fff;
   text-decoration: none;
-  display: flex;
-  align-items: center;
-  transition: color 0.3s ease;
 }
 
 nav {
-  z-index: 999999;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-left: auto;
 }
 
 nav a {
-  text-align: center;
   font-family: Roboto;
-  text-decoration: none;
-  color: #fff;
+  font-weight: 400;
   font-size: 1.1em;
-  margin-left: 10px;
-  margin-right: 10px;
-  transition: color 0.3s ease;
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
 }
 
 nav a:hover {
