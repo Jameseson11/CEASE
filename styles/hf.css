@@ -1,21 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 header {
   z-index: 999999;
   display: flex;
   align-items: center;
-  text-align: center;
   justify-content: space-between;
-  background-color: transparent;
-  padding: 5px 20px;
-  height: 25px;
+  background-color: #333;
+  padding: 10px 20px;
   margin-right: 300px;
   margin-left: 300px;
 }
 
 .title {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1.1em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
   color: #fff;
   text-decoration: none;
   display: flex;
@@ -27,8 +26,6 @@ nav {
   z-index: 999999;
   display: flex;
   align-items: center;
-  justify-content: flex-end;
-  flex-grow: 1;
 }
 
 nav a {
@@ -36,11 +33,11 @@ nav a {
   text-decoration: none;
   color: #fff;
   font-size: 1em;
-  margin-left: 10px; 
+  margin-left: 10px;
   margin-right: 10px;
   transition: color 0.3s ease;
 }
 
 nav a:hover {
- color: #ff0000;
+  color: #ff0000;
 }
