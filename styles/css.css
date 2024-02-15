@@ -42,12 +42,3 @@ body {
 .ver-btn:hover {
   background-color: #90EE90;
 }
-
-.horizontal-divider {
-    width: auto;
-    height: 1px;
-    background-color: rgba(255, 255, 255, 05);
-    margin-right: 300px;
-    margin-left: 300px;
-    text-align: center;
-}
