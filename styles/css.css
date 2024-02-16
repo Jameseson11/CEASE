@@ -74,10 +74,18 @@ main {
 }
 
 .ex-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
   font-size: 1.8em;
 }
 
 .ex-desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
   font-size: 1.2em;
 }
 
@@ -86,5 +94,5 @@ main {
   height: 150px;
   object-fit: cover;
   border-radius: 6px;
-  text-align: left;
+  margin-right: 20px;
 }
