@@ -42,3 +42,41 @@ body {
 .ver-btn:hover {
   background-color: #90EE90;
 }
+
+main {
+  min-height: 100vh;
+}
+
+#contents {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#exploit {
+  background-color: #1c1c1c;
+  border: 0.5px solid #141414;
+  box-shadow: 0 0 10px #545454;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#exploit:hover {
+  background-color: #121212;
+}
+
+#exploit a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.ex-title {
+  font-size: 1.8em;
+}
+
+.ex-desc {
+  font-size: 1.2em;
+}
