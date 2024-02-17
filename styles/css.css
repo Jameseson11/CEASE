@@ -55,7 +55,6 @@ main {
 
 #exploit {
   background-color: rgb(12,12,12);
-  box-shadow: 0 0 10px #545454;
   border: 0.5px solid rgb(11,10,10);
   border-radius: 10px;
   font-weight: bold;
