@@ -1,7 +1,6 @@
 document.write(`
   <header>
     <a style="margin: 0 300px;" class="title" href="/">
-      <p>CEASE</p>
       <img src="/images/logos/cease.png" style="width: 32px; height: 32px;" alt="CEASE">
     </a>
     <nav style="margin: 0 300px;">
