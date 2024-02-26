@@ -11,13 +11,3 @@ body {
 main {
   min-height: 100vh;
 }
-
-.page-title {
-  font-family: 'Source Sans Pro', sans-serif;
-  color: #000;
-  font-size: 5em;
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align: center;
-  align-items: center;
-}
