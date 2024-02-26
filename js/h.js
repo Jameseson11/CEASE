@@ -4,8 +4,8 @@ document.write(`
     <a href="/">CEASE</a>
   </nav>
     <nav style="z-index: 99999; display: flex; justify-content: flex-end; align-items: center;">
-      <a href="https://github.com/CybriaTech/CEASE">Github</a>
-      <a href="https://bit.ly/cybriatech">Discord</a>
-      <a href="https://buymeacoffee.com/cybriatech">Donate</a>
+      <a href="https://github.com/CybriaTech/CEASE"><i class="fab fa-github"></i></a>
+      <a href="https://bit.ly/cybriatech"><i class="fab fa-discord"></i></a>
+      <a href="https://buymeacoffee.com/cybriatech"><i class="fas fa-heart"></i></a>
   </header>
 `);
