@@ -20,6 +20,8 @@ header {
   display: flex;
   align-items: center;
   transition: color 0.3s ease;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 nav {
