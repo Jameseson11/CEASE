@@ -15,39 +15,9 @@ main {
 .page-title {
   font-family: 'Source Sans Pro', sans-serif;
   color: #000;
-  font-size: 2.7em;
+  font-size: 3em;
   font-weight: bold;
   text-transform: uppercase;
   text-align: center;
   align-items: center;
-}
-
-.page-desc {
-  font-family: 'Source Sans Pro', sans-serif;
-  color: #000;
-  font-size: 1.8em;
-  font-weight: bold;
-  text-transform: uppercase;
-  text-align: center;
-  align-items: center;
-  margin: 0;
-}
-
-.btn {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 1.05em;
-  margin-top: 8px;
-  width: 200px;
-  height: 40px;
-  border: none;
-  border-radius: 8px;
-  background-color: rgba(97, 97, 97, 0.8);
-  color: #000;
-  cursor: pointer;
-  transition: transform 0.2s ease-in-out, background-color 0.2s ease-in-out;
-}
-
-.btn:hover {
-  font-weight: bold;
-  transform: scale(1.05);
 }
