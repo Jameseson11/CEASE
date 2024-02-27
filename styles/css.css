@@ -134,4 +134,5 @@ form {
   width: 255px;
   height: auto;
   object-fit: cover;
+  border-radius: 5px;
 }
