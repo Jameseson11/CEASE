@@ -131,14 +131,20 @@ form {
 
 .exploit-title {
   font-size: 1.6em;
-  text-align: right;
+  text-align: left;
   margin-left: 40px;
 }
 
 .exploit-desc {
   font-size: 1.1em;
-  text-align: right;
+  text-align: left;
   margin-left: 40px;
+}
+
+#exploit-txt {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 #exploit-btn img {
