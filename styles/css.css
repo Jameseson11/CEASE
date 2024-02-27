@@ -130,13 +130,9 @@ form {
 }
 
 .exploit-title {
-  font-size: 1.3em;
+  font-size: 1.6em;
   margin-left: 40px;
-}
-
-.exploit-desc {
-  font-size: 1em;
-  margin-left: 40px;
+  text-align: center;
 }
 
 #exploit-txt {
