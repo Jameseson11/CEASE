@@ -105,6 +105,7 @@ form {
 #exploit-btn {
   display: flex;
   align-items: center;
+  justify-content: center;
   background-color: #F9FAFB;
   border: 0.5px solid #000;
   box-shadow: 0 0 10px #000;
@@ -118,6 +119,7 @@ form {
   margin-top: 20px;
   padding: 10px;
   margin-bottom: 20px;
+  position: relative;
 }
 
 #exploit-btn:hover {
@@ -127,6 +129,12 @@ form {
 #exploit-btn a {
   text-decoration: none;
   color: #000;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .exploit-title {
