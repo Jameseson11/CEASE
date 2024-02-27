@@ -15,7 +15,7 @@ main {
 
 .title {
   text-transform: uppercase;
-  margin-top: 10px;
+  margin: 0;
   font-size: 5em;
   align-items: center;
   font-weight: bold;
@@ -28,7 +28,6 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0;
 }
 
 .search-bar {
