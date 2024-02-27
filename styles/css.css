@@ -28,7 +28,7 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 20px;
+  margin: 0;
 }
 
 .search-bar {
