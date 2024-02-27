@@ -83,11 +83,12 @@ form {
 }
 
 .line {
-    width: 80%;
-    height: 1px;
-    background-color: #fff;
-    opacity: 0.5;
-    margin-right: 300px;
-    margin-left: 300px;
-    text-align: center;
+  width: 80%;
+  height: 1px;
+  background-color: #000;
+  opacity: 0.5;
+  margin-top: 10px;
+  margin-right: 300px;
+  margin-left: 300px;
+  text-align: center;
 }
