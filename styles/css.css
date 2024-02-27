@@ -67,7 +67,8 @@ form {
   padding: 0;
 }
 
-.select {
+#select {
+  margin-top: 10px;
   text-align: center;
 }
 
