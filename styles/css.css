@@ -123,8 +123,6 @@ form {
 
 #exploit-btn a {
   text-decoration: none;
-  display: flex;
-  align-items: center;
   color: #000;
 }
 
@@ -137,8 +135,10 @@ form {
 }
 
 #exploit-btn img {
-  width: 255px;
+  width: 100px;
   height: auto;
   object-fit: cover;
+  display: flex;
+  align-items: center;
   border-radius: 5px;
 }
