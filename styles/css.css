@@ -123,6 +123,8 @@ form {
 
 #exploit-btn a {
   text-decoration: none;
+  display: flex;
+  align-items: center;
   color: #000;
 }
 
