@@ -127,15 +127,15 @@ form {
 }
 
 .exploit-title {
-  font-size: 1.8em;
+  font-size: 1.6em;
 }
 
 .exploit-desc {
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 
 #exploit-btn img {
-  width: 100px;
+  width: 155px;
   height: auto;
   object-fit: cover;
   display: flex;
