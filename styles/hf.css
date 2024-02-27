@@ -6,7 +6,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #F9FAFB;
+  background-color: #060504;
   padding: 5px 20px;
   height: 50px;
   box-shadow: 0 0 7px #000;
@@ -17,7 +17,7 @@ nav a {
   font-family: 'Source Sans Pro', sans-serif;
   margin-left: 10px; 
   margin-right: 10px;
-  color: #000;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.2s ease;
