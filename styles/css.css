@@ -132,13 +132,13 @@ form {
 .exploit-title {
   font-size: 1.6em;
   margin-left: 40px;
-  text-align: center;
 }
 
 #exploit-txt {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  text-align: right;
 }
 
 #exploit-btn img {
