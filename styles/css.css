@@ -59,15 +59,10 @@ form {
   border-radius: 0 6px 6px 0;
   color: #000;
   font-weight: bold;
-  transition: background-color 0.2s ease;
-  margin-left: 0.5px;
+  margin-left: 1px;
   z-index: 2;
   font-size: 1.9em;
   text-align: center;
   cursor: pointer;
   padding: 0;
-}
-
-.search-enter:hover {
-  background-color: #D90000;
 }
