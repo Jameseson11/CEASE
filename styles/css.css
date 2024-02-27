@@ -81,3 +81,13 @@ form {
   font-family: 'Source Sans Pro', sans-serif;
   background-color: #F9FAFB;
 }
+
+.line {
+    width: 80%;
+    height: 1px;
+    background-color: #fff;
+    opacity: 0.5;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align: center;
+}
