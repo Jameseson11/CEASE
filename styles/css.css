@@ -92,3 +92,40 @@ form {
   margin-left: 200px;
   text-align: center;
 }
+
+#exploit-area {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#exploit-btn {
+  background-color: #F9FAFB;
+  border: 0.5px solid #000;
+  box-shadow: 0 0 10px #000;
+  border-radius: 10px;
+  font-weight: bold;
+  margin-right: 200px;
+  margin-left: 200px;
+  width: auto;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#exploit-btn:hover {
+  background-color: #ff0000;
+}
+
+#exploit-btn a {
+  text-decoration: none;
+  color: #000;
+}
+
+.exploit-title {
+  font-size: 1.8em;
+}
+
+.exploit-desc {
+  font-size: 1.2em;
+}
