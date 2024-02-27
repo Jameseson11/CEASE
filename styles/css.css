@@ -94,8 +94,11 @@ form {
 }
 
 #exploit-area {
-  text-align: center;
+  display: flex;
   align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
   justify-content: center;
 }
 
