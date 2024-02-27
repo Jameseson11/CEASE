@@ -6,6 +6,7 @@ body {
   text-align: center;
   align-items: center;
   justify-content: center;
+  margin: 0;
 }
 
 main {
@@ -82,7 +83,7 @@ form {
 }
 
 .line {
-  width: 100%;
+  width: auto;
   height: 1px;
   background-color: #000;
   opacity: 0.5;
