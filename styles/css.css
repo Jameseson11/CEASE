@@ -3,7 +3,6 @@
 body {
   background-color: #E5E7EB;
   font-family: 'Roboto', sans-serif;
-  text-align: center;
   align-items: center;
   justify-content: center;
   margin: 0;
@@ -19,6 +18,7 @@ main {
   font-size: 5em;
   align-items: center;
   font-weight: bold;
+  text-align: center;
   color: #000;
 }
 
