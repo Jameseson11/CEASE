@@ -129,3 +129,9 @@ form {
 .exploit-desc {
   font-size: 1.2em;
 }
+
+#exploit-btn img {
+  width: 255px;
+  height: auto;
+  object-fit: cover;
+}
