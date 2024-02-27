@@ -136,7 +136,8 @@ form {
 }
 
 .exploit-desc {
-  font-size: 1.5em;
+  font-size: 1.3em;
+  margin: 0;
   text-align: center;
 }
 
