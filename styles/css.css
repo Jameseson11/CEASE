@@ -131,6 +131,7 @@ form {
 }
 
 .exploit-title {
+  align-items: center;
   font-size: 2.7em;
   text-align: center;
   font-weight: bold;
@@ -138,6 +139,7 @@ form {
 }
 
 .exploit-desc {
+  align-items: center;
   font-size: 1.3em;
   text-align: center;
 }
