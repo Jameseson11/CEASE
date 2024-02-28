@@ -159,3 +159,8 @@ form {
   align-items: center;
   border-radius: 5px;
 }
+
+.exploit-author,
+.exploit-version {
+  display: none;
+}
