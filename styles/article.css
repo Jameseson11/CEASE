@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap');
+
+#header {
+  text-align: center;
+  align-items: center;
+}
+
+#exploit-container {
+  background-color: transparent;
+  box-shadow: 0 0 7px #000;
+  height: auto;
+  width: auto;
+}
+
+.title-exploit {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.4em;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+}
+
+.author {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.8em;
+  text-align: center;
+}
+
+
+  
