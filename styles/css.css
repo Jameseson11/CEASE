@@ -161,6 +161,7 @@ form {
 }
 
 .exploit-author,
-.exploit-version {
+.exploit-version,
+.exploit-cat {
   display: none;
 }
