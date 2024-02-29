@@ -13,6 +13,9 @@
   padding: 20px;
   border-radius: 6px;
   margin-top: 25px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .author {
