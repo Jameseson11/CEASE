@@ -16,16 +16,16 @@
 
 .title-exploit {
   font-family: 'Roboto', sans-serif;
-  font-size: 2.4em;
+  font-size: 2.7em;
   font-weight: bold;
   text-align: center;
+  margin: 0;
 }
 
 .author {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.8em;
+  font-size: 2em;
   text-align: center;
-  margin: 0;
 }
 
 .desc-title {
@@ -72,4 +72,10 @@ li {
 .requirements {
   font-size: 1.3em;
   color: #6a5acd;
+}
+
+.links,
+.exploit-snippet {
+  color: #ff0000;
+  text-decoration: none;
 }
