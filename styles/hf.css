@@ -21,6 +21,7 @@ nav a {
   text-decoration: none;
   font-weight: bold;
   transition: color 0.2s ease;
+  margin: 0 10px;
 }
 
 nav a:hover {
