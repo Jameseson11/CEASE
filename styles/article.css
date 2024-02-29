@@ -57,3 +57,14 @@ li {
   color: #000;
   font-size: 1.7em;
 }
+
+#divider-exploit {
+  width: auto;
+  height: 1px;
+  background-color: #000;
+  opacity: 0.5;
+  margin-top: 20px;
+  margin-right: 25px;
+  margin-left: 25px;
+  text-align: center;
+}
