@@ -12,21 +12,14 @@
   height: fit-content; 
   padding: 20px;
   border-radius: 6px;
-}
-
-.title-exploit {
-  font-family: 'Roboto', sans-serif;
-  font-size: 2.7em;
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 0;
+  margin-top: 15px;
 }
 
 .author {
   font-family: 'Roboto', sans-serif;
   font-size: 2em;
   text-align: center;
-  margin-top: 0;
+  margin: 0;
 }
 
 .desc-title {
