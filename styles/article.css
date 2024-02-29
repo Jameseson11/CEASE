@@ -87,3 +87,21 @@ li {
   color: #ff0000;
   text-decoration: none;
 }
+
+.script-btn {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.05em;
+  min-width: 150px;
+  height: 45px;
+  border: none;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #000;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  box-shadow: 0 0 7px #000;
+}
+
+.script-btn:hover {
+  transform: scale(1.05);
+}
