@@ -67,7 +67,14 @@ li {
 
 .requirements {
   font-size: 1.3em;
-  color: #6a5acd;
+  color: #000;
+}
+
+#requirements {
+  width: auto;
+  height: auto;
+  max-height: 35px;
+  background-color: #6a5acd;
 }
 
 .links,
