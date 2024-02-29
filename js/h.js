@@ -5,7 +5,7 @@ document.write(`
   </nav>
     <nav style="z-index: 99999; display: flex; justify-content: center; align-items: center;">
       <a href="/docs">Docs</a>
-      <a href="/mirror.html">Mirrors</a>
+      <a href="/about.html">About</a>
       <a href="/settings.html">Settings</a>
       </nav>
     <nav style="z-index: 99999; display: flex; justify-content: flex-end; align-items: center;">
