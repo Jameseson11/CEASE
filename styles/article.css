@@ -13,11 +13,6 @@
   padding: 20px;
   border-radius: 6px;
   margin-top: 25px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  flex-wrap: wrap;
 }
 
 .author {
