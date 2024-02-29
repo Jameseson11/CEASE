@@ -3,7 +3,7 @@ document.write(`
   <nav style="z-index: 99999; display: flex; justify-content: flex-start; align-items: center;">
     <a href="/">CEASE</a>
   </nav>
-    <nav style="z-index: 99999; display: flex; justify-content: center; align-items: center; margin-left: 20px; margin-right: 20px;">
+    <nav style="z-index: 99999; display: flex; justify-content: center; align-items: center;">
       <a href="/docs">Docs</a>
       <a href="/mirror.html">Mirrors</a>
       <a href="/settings.html">Settings</a>
