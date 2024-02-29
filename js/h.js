@@ -4,6 +4,7 @@ document.write(`
     <a href="/">CEASE</a>
   </nav>
     <nav style="z-index: 99999; display: flex; justify-content: center; align-items: center;">
+      <a href="/articles.html">Articles</a>
       <a href="/mirror.html">Mirrors</a>
       <a href="/settings.html">Settings</a>
       </nav>
