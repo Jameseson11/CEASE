@@ -72,6 +72,11 @@ li {
   color: #6a5acd;
 }
 
+.warning {
+  font-size: 1.3em;
+  color: #ff0000;
+}
+
 .links,
 .exploit-snippet {
   color: #ff0000;
