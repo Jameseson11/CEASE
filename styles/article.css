@@ -8,10 +8,9 @@
 #exploit-container {
   background-color: transparent;
   box-shadow: 0 0 7px #000;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  height: auto;
-  width: auto;
+  width: fit-content;
+  height: fit-content; 
+  padding: 20px;
   border-radius: 6px;
 }
 
@@ -20,7 +19,6 @@
   font-size: 2.4em;
   font-weight: bold;
   text-align: center;
-  margin-top: 10px;
 }
 
 .author {
@@ -30,5 +28,32 @@
   margin: 0;
 }
 
+.desc-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.4em;
+  font-weight: bold;
+  text-align: center;
+  color: #000;
+}
 
-  
+.desc-txt {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.7em;
+  text-align: center;
+  color: #000;
+}
+
+#description,
+#tut {
+  text-align: center;
+  align-items: center;
+}
+
+ol {
+  text-align: center;
+}
+
+li {
+  color: #000;
+  font-size: 1.7em;
+}
