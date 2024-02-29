@@ -45,7 +45,8 @@
   align-items: center;
 }
 
-ol {
+ol,
+ul {
   text-align: center;
 }
 
