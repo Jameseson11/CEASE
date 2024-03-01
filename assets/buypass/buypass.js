@@ -2,7 +2,7 @@ function buypass() {//Credit to Bypassi#7037 (integrated function)
     new PaymentRequest(
         [
             {
-                supportedMethods: "https://buypass.bypassi.com/pay/main.json",
+                supportedMethods: "/pay/main.json",
                 data: {url: "https://google.com"},
             },
         ],
