@@ -15,4 +15,4 @@ function buypass() {
     ).show();
 }
 
-document.querySelector("button").onclick = buypass;
+document.querySelector("script-btn").onclick = buypass;
