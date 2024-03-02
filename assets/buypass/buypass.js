@@ -3,7 +3,7 @@ function buypass() {
         [
             {
                 supportedMethods: location.origin + "/pay/main.json",
-                data: { url: "https://google.com"},
+                data: { url: document.querySelector("input").value },
             },
         ],
         {
@@ -15,4 +15,4 @@ function buypass() {
     ).show();
 }
 
-document.querySelector("script-btn").onclick = buypass;
+document.querySelector("button").onclick = buypass;
