@@ -93,7 +93,7 @@ li {
   text-decoration: none;
 }
 
-.script-btn {
+button {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 1.5em;
   min-width: 150px;
@@ -107,6 +107,6 @@ li {
   box-shadow: 0 0 7px #000;
 }
 
-.script-btn:hover {
+button:hover {
   transform: scale(1.05);
 }
