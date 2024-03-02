@@ -82,6 +82,11 @@ li {
   color: #ff0000;
 }
 
+.keep-in-mind {
+  font-size: 1.3em;
+  color: #ffa500;
+}
+
 .links,
 .exploit-snippet {
   color: #ff0000;
