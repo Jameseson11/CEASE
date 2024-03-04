@@ -215,6 +215,23 @@
       </div>
     </main>
     <script src="/js/exploit.js"></script>
+    <script>
+    function search() {
+        var searchTerm = document.querySelector('.search-bar').value.toLowerCase();
+        var exTitle = document.querySelectorAll('.exploit-title');
+
+        exTitle.forEach(function (title) {
+            var exTitleTxt = title.innerText.toLowerCase();
+            var exElement = title.closest('#exploit-btn');
+
+            if (searchTerm === '' || exTitleTxt.includes(searchTerm)) {
+                exElement.style.display = 'block';
+            } else {
+                exElement.style.display = 'none';
+            }
+        });
+    }
+    </script>
   </body>
 </html>
             
