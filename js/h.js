@@ -5,7 +5,7 @@ document.write(`
   </nav>
   <nav style="z-index: 99999; display: flex; align-items: center; margin: 0 auto;">
     <a href="/docs">Docs</a>
-    <a href="/about.html">About</a>
+    <a href="/issue.html">Issue</a>
     <a href="/settings.html">Settings</a>
   </nav>
   <nav style="z-index: 99999; display: flex; justify-content: flex-end; align-items: center;">
