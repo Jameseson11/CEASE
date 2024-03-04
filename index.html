@@ -19,8 +19,8 @@
       <p class="title">CEASE</p>
       </div>
       <form>
-      <input type="text" class="search-bar" placeholder="Search For An Exploit">
-      <button class="search-enter" onclick="search();"><i class="fas fa-search"></i></button>
+      <input type="text" class="search-bar" placeholder="Search For An Exploit" onkeypress="handleKeyPress(event)">
+      <button class="search-enter" onclick="search()"><i class="fas fa-search"></i></button>
       </form>
       <div id="select">
         <select class="select" id="ver-select" onchange="filterVer()">
@@ -230,6 +230,13 @@
                 exElement.style.display = 'none';
             }
         });
+    }
+
+    function handleKeyPress(event) {
+        if (event.keyCode === 13) {
+            event.preventDefault();
+            search();
+        }
     }
     </script>
   </body>
