@@ -23,7 +23,7 @@
       <button class="search-enter" onclick="search();"><i class="fas fa-search"></i></button>
       </form>
       <div id="select">
-        <select class="select" id="ver-select">
+        <select class="select" id="ver-select" onchange="filterVer()">
           <option>Version</option>
           <option>Version 120</option>
           <option>Version 119</option>
@@ -45,14 +45,14 @@
           <option>Version 103</option>
           <option>Version 102</option>
         </select>
-        <select class="select" id="cat-select">
+        <select class="select" id="cat-select" onchange="filterCat()">
           <option>Category</option>
           <option>Website</option>
           <option>System</option>
           <option>Bookmarklet</option>
           <option>Scripts</option>
         </select>
-        <select class="select" id="owner-select">
+        <select class="select" id="owner-select" onchange="filterOwner()">
           <option>Owner</option>
           <option>Bypassi</option>
           <option>X-88</option>
